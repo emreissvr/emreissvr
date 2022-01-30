@@ -1,5 +1,7 @@
-### Hello I am Emre İşsever  👋
-## I am an individual who dedicates himself to education, science, research and development and wants to do useful work that creates value for people as much as possible. Since my high school years, I have been intertwined with technology and took part in productive activities and roles. During my university years, I took part in both the hardware and software parts of technology. During this time, my interest in software has increased day by day in line with my goals. I am developing and educating myself as a Full Stack Developer in the field of software very effectively.
+# Hello I am Emre İşsever  👋
+
+## Summary and My Goal
+### I am an individual who dedicates himself to education, science, research and development and wants to do useful work that creates value for people as much as possible. Since my high school years, I have been intertwined with technology and took part in productive activities and roles. During my university years, I took part in both the hardware and software parts of technology. During this time, my interest in software has increased day by day in line with my goals. I am developing and educating myself as a Full Stack Developer in the field of software very effectively. I will continue to improve myself until I sign projects that change the world in the field of software.
 
 
 - 🔭 I am currently training on SQL, C#, .NET Core, ASP.NET Core MVC, JavaScript, HTML 5, CSS 3, React.js, Node.js, React Native at Bahçeşehir University(Wissen Akademie).
